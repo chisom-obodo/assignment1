@@ -1,0 +1,29 @@
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 5px;
+
+}
+
+.green {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 5px;
+    bottom: 10px;
+
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 15px;
+}
+span{
+    color: aliceblue;
+}

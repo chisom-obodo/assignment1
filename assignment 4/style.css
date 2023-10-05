@@ -1,0 +1,35 @@
+img {
+    float: right;
+    width: 200px;
+}
+
+.cat {
+    float: left;
+
+}
+
+.dog {
+    float: left;
+}
+
+.green {
+    background-color: aquamarine;
+    height: 200px;
+    width: 40%;
+    position: relative;
+
+}
+
+.coral {
+    background-color: coral;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    left: 750px;
+    top: 0px;
+    right: 250px;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+}
